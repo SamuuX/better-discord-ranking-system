@@ -41,7 +41,7 @@
   "license": "GNU",
   "dependencies": {
     "canvacord": "^5.0.8",
-    "discord.js": "^12.5.1",
+    "discord.js": "^14.7.1",
     "enmap": "^5.8.4"
   }
 }
